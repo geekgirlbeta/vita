@@ -274,11 +274,13 @@ input, select, textarea {
 			font-family: 'Pacifico', cursive;
 			text-transform: initial;
 			font-weight: 400;
+			text-shadow: 4px 4px 4px #aaa;
 		}
 
 		h1 span.vitaText, h2 span.vitaText, h2 span.vitaText, h4 span.vitaText, h5 span.vitaText, h6 span.vitaText {
 			font-family: 'Raleway';
 			font-weight: 700;
+			text-shadow: 4px 4px 4px #aaa;
 		}
 
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
