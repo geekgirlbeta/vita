@@ -3846,7 +3846,7 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				text-align: right;
+				text-align: justify;
 			}
 
 			.wrapper.spotlight:nth-child(2n - 1) .image {
@@ -4096,9 +4096,9 @@ input, select, textarea {
 	@media screen and (max-width: 1280px) {
 
 		#footer {
-			/* change 2e3141 to 431103*/
-			background-color: #e6b000;
-			background-image: linear-gradient(to top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url("../../images/bg.jpg");
+			/* change 2e3141 to 431103 to e6b000 to 08a0ff*/
+			background-color: #08a0ff;
+			/*background-image: linear-gradient(to top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url("../../images/bg.jpg");*/
 			background-size: auto,
  cover;
 			background-position: center,
