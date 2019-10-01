@@ -249,6 +249,7 @@ input, select, textarea {
 	p.tagline {
 		font-family: Raleway, Helvetica, sans-serif;
 		font-weight: 700;
+		text-shadow: 4px 4px 4px #000000;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -273,14 +274,16 @@ input, select, textarea {
 		h1 span.therapyText, h2 span.therapyText, h2 span.therapyText, h4 span.therapyText, h5 span.therapyText, h6 span.therapyText {
 			font-family: 'Pacifico', cursive;
 			text-transform: initial;
+			font-size: 2em;
 			font-weight: 400;
-			text-shadow: 4px 4px 4px #aaa;
+			text-shadow: 4px 4px 4px #000000;
 		}
 
 		h1 span.vitaText, h2 span.vitaText, h2 span.vitaText, h4 span.vitaText, h5 span.vitaText, h6 span.vitaText {
 			font-family: 'Raleway';
+			font-size: 2em;
 			font-weight: 700;
-			text-shadow: 4px 4px 4px #aaa;
+			text-shadow: 4px 4px 4px #000000;
 		}
 
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
