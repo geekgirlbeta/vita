@@ -249,6 +249,7 @@ input, select, textarea {
 	p.tagline {
 		font-family: Raleway, Helvetica, sans-serif;
 		font-weight: 700;
+		text-shadow: 4px 4px 4px #000000;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
